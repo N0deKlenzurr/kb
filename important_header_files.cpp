@@ -1,4 +1,4 @@
-# List of useful and important header files for C/C++
+/* List of useful and important header files for C/C++ */
 
 #include <netdb.h>
 #include <unistd.h>
@@ -22,5 +22,6 @@
 #include <semaphore.h>
 #include <linux/kernel.h>
 #include <linux/cpu.h>
-# Many included in the linux include directory
-## https://github.com/torvalds/linux/tree/master/include/linux
+
+/* Many included in the linux include directory
+## https://github.com/torvalds/linux/tree/master/include/linux */
